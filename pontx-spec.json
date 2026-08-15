@@ -13,6 +13,7 @@
           "verifiedAt": "2026-08-15"
         },
         "execution": {
+          "disabledReason": "Hub 不代理 CurrencyBeacon 请求；Hub does not proxy CurrencyBeacon requests. 请使用调用方自己的凭据通过本地 SDK 或 CLI 直接调用。 Use caller-owned credentials through the local SDK or CLI for direct calls.",
           "enabled": false
         }
       },
@@ -181,6 +182,7 @@
           "verifiedAt": "2026-08-15"
         },
         "execution": {
+          "disabledReason": "Hub 不代理 CurrencyBeacon 请求；Hub does not proxy CurrencyBeacon requests. 请使用调用方自己的凭据通过本地 SDK 或 CLI 直接调用。 Use caller-owned credentials through the local SDK or CLI for direct calls.",
           "enabled": false
         }
       },
@@ -336,6 +338,7 @@
           "verifiedAt": "2026-08-15"
         },
         "execution": {
+          "disabledReason": "Hub 不代理 CurrencyBeacon 请求；Hub does not proxy CurrencyBeacon requests. 请使用调用方自己的凭据通过本地 SDK 或 CLI 直接调用。 Use caller-owned credentials through the local SDK or CLI for direct calls.",
           "enabled": false
         }
       },
@@ -476,6 +479,7 @@
           "verifiedAt": "2026-08-15"
         },
         "execution": {
+          "disabledReason": "Hub 不代理 CurrencyBeacon 请求；Hub does not proxy CurrencyBeacon requests. 请使用调用方自己的凭据通过本地 SDK 或 CLI 直接调用。 Use caller-owned credentials through the local SDK or CLI for direct calls.",
           "enabled": false
         }
       },
@@ -646,6 +650,7 @@
           "verifiedAt": "2026-08-15"
         },
         "execution": {
+          "disabledReason": "Hub 不代理 CurrencyBeacon 请求；Hub does not proxy CurrencyBeacon requests. 请使用调用方自己的凭据通过本地 SDK 或 CLI 直接调用。 Use caller-owned credentials through the local SDK or CLI for direct calls.",
           "enabled": false
         }
       },
