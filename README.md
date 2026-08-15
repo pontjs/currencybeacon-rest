@@ -31,6 +31,6 @@ export PONTX_CURRENCYBEACON_API_KEY="..."
 pontx-currencybeacon-rest call latest --base USD --symbols EUR,GBP --dry-run
 ```
 
-The SDK and CLI connect directly to CurrencyBeacon. Pontx does not proxy,
-cache, persist, or display supplier responses, and keys are added only at
-request execution time so dry-run output never includes them.
+The SDK and CLI connect directly to CurrencyBeacon. They do not proxy, cache,
+persist, or display supplier responses, and keys are added only at request
+execution time so dry-run output never includes them.
