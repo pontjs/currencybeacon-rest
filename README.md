@@ -1,5 +1,7 @@
 # @pontx/currencybeacon-rest
 
+[Pontx Hub SDK guide](https://pontx.dev/en/sdks/currencybeacon-rest)
+
 Type-safe TypeScript SDK and CLI for the CurrencyBeacon v1 REST API.
 
 ```bash
